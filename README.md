@@ -5,27 +5,7 @@
  
  ### Some of my certifications
   
- ### Some images of the application:
- 
-  <img src="https://github.com/LQVinh9/AwardCertificates/blob/main/WebDesignForEverybody.pdf" width="100%" height="100%">
-  <br />
-  <hr />
-  <br />
-  <img src="https://github.com/LQVinh9/AwardCertificates/blob/main/StartupEntrepreneurship.pdf" width="100%" height="100%">
-  <br />
-  <hr />
-  <br />
-  <img src="https://github.com/LQVinh9/AwardCertificates/blob/main/HTML5.pdf" width="100%" height="100%">
-  <br />
-  <hr />
-  <br />
-  <img src="https://github.com/LQVinh9/AwardCertificates/blob/main/CSS.pdf" width="100%" height="100%">
-  <br />
-  <hr />
-  <br />
-  <img src="https://github.com/LQVinh9/AwardCertificates/blob/main/JavaScript.pdf" width="100%" height="100%">
-  
-  ## About me
+ ## About me
 
 Hi, I'm Vinh. I'm developing to make services that will improve our live.
 
